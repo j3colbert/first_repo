@@ -1,3 +1,3 @@
 # first_repo
 Changed a second line to understand
-How merges are done!
+Now I've changed line three to create the conflict
